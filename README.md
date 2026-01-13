@@ -1,4 +1,4 @@
-# Sheet API Demo – MCP Server
+# Google Workspace – MCP Server
 
 This project demonstrates how to build an **MCP (Model Context Protocol) server** that allows AI agents to interact with **Google Sheets** programmatically. It shows authentication, reading/writing data, and basic automation using the Google Sheets API.
 
